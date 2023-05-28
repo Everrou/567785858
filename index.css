@@ -1,0 +1,27 @@
+/* Стили для элементов на странице */
+    .container {
+      display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    }
+
+    .animal {
+      width: 200px;
+      height: 400px;
+
+      margin-bottom: 20px;
+    }
+
+    .food {
+      width: 100px;
+      height: 100px;
+
+      cursor: pointer;
+    }
+
+    .message {
+      margin-top: 20px;
+      font-weight: bold;
+
+    }
